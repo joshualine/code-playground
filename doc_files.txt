@@ -1,0 +1,23 @@
+total 88
+drwxr-xr-x  2 joshualine joshualine 4096 Jan  6 00:08 Books
+drwxr-xr-x 13 joshualine joshualine 4096 Jan 22 07:42 cloned-projects
+drwxr-xr-x  5 joshualine joshualine 4096 Jan  5 21:30 django-projects
+drwxrwxr-x  5 joshualine joshualine 4096 Dec 25 10:06 FontEnd Projects
+drwxr-xr-x  3 joshualine joshualine 4096 Jan  8 00:40 go_projects
+drwxrwxr-x  6 joshualine joshualine 4096 Oct 24 12:19 LibraryApp-master
+drwxr-xr-x  2 joshualine joshualine 4096 Feb 27 14:41 linux_t
+drwxrwxr-x  3 joshualine joshualine 4096 Nov  2 22:14 Project code 5
+drwxr-xr-x  4 joshualine joshualine 4096 Oct 23 08:28 Project codes
+drwxr-xr-x  9 joshualine joshualine 4096 Dec  1 13:28 Project codes 10
+drwxr-xr-x 10 joshualine joshualine 4096 Dec 14 17:00 Project codes 11
+drwxr-xr-x  7 joshualine joshualine 4096 Dec 29 21:17 Project codes 12
+drwxr-xr-x  7 joshualine joshualine 4096 Nov 24 16:18 Project codes 2
+drwxr-xr-x  5 joshualine joshualine 4096 Oct 24 14:41 Project codes 3
+drwxr-xr-x  6 joshualine joshualine 4096 Oct 28 09:10 Project codes 4
+drwxr-xr-x  5 joshualine joshualine 4096 Nov  2 18:45 Project codes 5
+drwxr-xr-x  4 joshualine joshualine 4096 Nov  3 08:03 Project codes 6
+drwxr-xr-x  7 joshualine joshualine 4096 Nov 12 19:26 Project codes 7
+drwxr-xr-x  4 joshualine joshualine 4096 Nov 19 07:24 Project codes 8
+drwxr-xr-x  4 joshualine joshualine 4096 Nov 21 13:12 Project codes 9
+drwxr-xr-x  5 joshualine joshualine 4096 Feb  5 12:18 react-projects
+drwxr-xr-x  3 joshualine joshualine 4096 Jan 26 20:11 school-projects
